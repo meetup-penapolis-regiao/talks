@@ -1,4 +1,4 @@
-<center>![alt text][logo]</center>
+![alt text][logo]
 
 Neste repositório é possível jogar papo fora. Para iniciar uma nova conversa, [puxe uma cadeira](talks/issues/new) e comece a falar.
 
